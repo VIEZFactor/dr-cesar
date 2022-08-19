@@ -1,0 +1,53 @@
+.fluid-no-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#logo-menu {
+  max-width: 130px;
+}
+
+#main-menu a {
+  color: #1485ee;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.section-values .item {
+  margin-bottom: 2em;
+}
+
+.section-values .box {
+  background-color: white;
+  height: 100%;
+}
+
+.carousel-indicators {
+  margin-bottom: 0;
+}
+
+.section-testimonials {
+  background: #1ed600;
+}
+
+.section-ubication {
+  background: #0c3b81;
+}
+
+.section-ubication p {
+  color: white;
+  font-size: 1.2em;
+}
+
+footer {
+  padding-top: 1em;
+  background-color: black;
+  padding-bottom: 1em;
+}
+
+footer p {
+  color: white;
+  margin-bottom: 0;
+  font-size: 1.1em;
+}
+
