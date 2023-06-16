@@ -83,6 +83,26 @@ h1,h2,h3,h4,h5,h6,p,input,textarea,button,body{
   background-color: white;
 }
 
+.contact-white-message{
+  background-color: white;
+  padding-top: 4em;
+  padding-bottom: 4em;
+}
+
+.contact-white-message a{
+  background-color: white;
+  border: 1px solid #082e4b;
+  color: #082e4b;
+  padding: 0.5em 2em;
+  border-radius: 1.5em;
+  font-weight: 700;
+}
+
+.contact-white-message a:hover, .contact-white-message a:focus{
+  color: white;
+  background-color: #082e4b;
+}
+
 .section-ubication {
   background: #0c3b81;
 }
