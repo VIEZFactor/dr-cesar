@@ -103,6 +103,26 @@ h1,h2,h3,h4,h5,h6,p,input,textarea,button,body{
   background-color: #082e4b;
 }
 
+.social-networks{
+  background-color: black;
+  padding-top: 4em;
+  padding-bottom: 4em;
+}
+
+.social-networks a{
+  background-color: black;
+  border: 1px solid white;
+  color: white;
+  padding: 0.5em 2em;
+  border-radius: 1.5em;
+  font-weight: 700;
+}
+
+.social-networks a:hover, .social-networks a:focus{
+  color: black;
+  background-color: white;
+}
+
 .section-ubication {
   background: #0c3b81;
 }
